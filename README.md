@@ -53,10 +53,10 @@
 ##
 
 <p align="center" style="background:blue">
-  <a href="https://instagram.com/claudiadi.p">
+  <a href="https://www.instagram.com/claudiadi.p/">
  <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://www.linkedin.com/in/claudiadipietro/ target=_blank">
+<a href="https://www.linkedin.com/in/claudiadipietro/">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
