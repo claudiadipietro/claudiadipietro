@@ -4,19 +4,16 @@
 ### I'm a junior app developer who loves to learn new things. I have a lot of motivation and I really like what I do.
 
 
-- 🔭 I’m currently working on social robotics and I love it!
-
-
-- 🌱 I mainly work with Kotlin as the programming language but I am looking forward to learn other programming languages too
+- 🌱 I mainly work with Kotlin as the programming language but I am looking forward to learn other programming languages too.
 
 
 - :open_hands: I have also worked with Java, C#, HTML, CSS and XML. I am learning Python and JavaScript so I can also become a FullStack Developer.
 
 
-- 😄 My pronouns are she/her
+- 😄 My pronouns are she/her.
 
 
-- :blossom: I hope you have a great day
+- :blossom: I hope you have a great day.
 
 <br>
 
