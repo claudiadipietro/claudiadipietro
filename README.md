@@ -1,13 +1,13 @@
 <h1 align="left">Hi there! I'm Claudia</h1>
 <img align="right" width="300em" height="300em" src="https://github.com/claudiadipietro/claudiadipietro/blob/main/editedgif.gif?raw=true"/>
 
-### I'm a junior app developer who loves to learn new things. I have a lot of motivation and I really like what I do.
+### I'm a web developer who loves to learn new things. I have a lot of motivation and I really like what I do.
 
 
-- 🌱 I mainly work with Kotlin as the programming language but I am looking forward to learn other programming languages too.
+- 🌱 I have been working for a year as a web developer, with the stack: C# + .NET Core/Frawework for the backend and Angular for the frontend.
 
 
-- :open_hands: I have also worked with Java, C#, HTML, CSS and XML. I am learning Python and JavaScript so I can also become a FullStack Developer.
+- :open_hands: I used to do native Android development and professionally speaking I worked developing native Android apps for a year. So, to sum it up, I've been a software developer for two years!
 
 
 - 😄 My pronouns are she/her.
